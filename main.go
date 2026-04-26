@@ -7,4 +7,5 @@ import (
 func main() {
 	meet.SayHello("Olá, Douglas!")
 	meet.Say("Olá, Maria!")
+	meet.Variaveis()
 }
