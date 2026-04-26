@@ -1,0 +1,22 @@
+# Ignorar binários gerados pelo Go
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Ignorar arquivos de teste compilados
+*.test
+
+# Ignorar diretórios de build
+/bin/
+/obj/
+
+# Ignorar cache do Go
+/vendor/
+/pkg/
+
+# Ignorar arquivos temporários do editor
+*.log
+*.tmp
+*.swp
